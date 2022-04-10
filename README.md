@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunoMaka
 - 👀 I’m interested in opportunities 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on all projects
 - 📫 How to reach me ...
 
